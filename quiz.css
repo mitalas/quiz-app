@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: rgba(128, 128, 128, 0.651);
+}
+#submit{
+    cursor: pointer;
+}
+.container {
+    background-color: white;
+    width: 600px;
+    max-width: 100%;
+    align-items: center;
+    box-shadow: 0px 8px 20px 1px rgba(109, 110, 110, 0.815);
+    padding: 0px;
+}
+
+li {
+   list-style: none;
+}
+input[type]{
+    cursor: pointer;
+}
+button{
+    background-color: rgb(136, 13, 109);
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    font-size: 17px;
+    color: white;
+    outline: none;
+    border: none;
+}
